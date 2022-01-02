@@ -44,3 +44,6 @@ My name is Sofia Markoglou and I'm a Web Developer. I'm from Greece and currentl
   </a>
 </p>
 
+
+![snake svg](https://github.com/sophia-ma/sophia-ma/blob/output/github-contribution-grid-snake.svg)
+
