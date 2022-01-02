@@ -10,7 +10,7 @@ My name is Sofia Markoglou and I'm a Web Developer. I'm from Greece and currentl
 - ⚡ Fun fact: I play WoW if I am not spending time with my doggies
 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -35,7 +35,12 @@ My name is Sofia Markoglou and I'm a Web Developer. I'm from Greece and currentl
 
 
 
-## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-ma&theme=dracula&layout=compact&show_icons=true)](https://github.com/sophia-ma/github-readme-stats) 
+## 📈 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/sophia-ma">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sophia-ma&layout=compact&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sophia-ma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=sophia-ma&theme=darcula&date_format=j%20M%5B%20Y%5D" />
+  </a>
+</p>
 
-[![Sofia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophia-ma&theme=dracula&show_icons=true&count_private=true)](https://github.com/sophia-ma/github-readme-stats)
