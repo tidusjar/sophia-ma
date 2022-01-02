@@ -1,3 +1,5 @@
+<img width="100%" src="off-net.gif" />
+
 ## Hi <img src="https://raw.githubusercontent.com/sophia-ma/sophia-ma/main/hi.gif" width="22px">, I'm Sofia
 My name is Sofia Markoglou and I'm a Web Developer. I'm from Greece and currently living in UK.
 
