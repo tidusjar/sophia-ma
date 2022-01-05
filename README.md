@@ -9,7 +9,7 @@ My name is Sofia Markoglou and I'm a Web Developer. I'm from Greece and currentl
 - 🔭 I’m currently working at Benefex
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: https://www.linkedin.com/in/sofia-markoglou/
-- ⚡ Fun fact: I play WoW if I am not spending time with my doggies
+- ⚡ Fun fact: I play WoW if I am not spending time with my doggos
 
 
 ## 🚀 Languages and Tools
